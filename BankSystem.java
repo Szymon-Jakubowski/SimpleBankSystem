@@ -83,7 +83,6 @@ public class BankSystem {
                     break;
                 case 6:
                     System.out.print("List of funds of all accounts: ");
-                    bank.listAccounts();
                     break;
                 case 7:
                     System.out.println("Program terminated.");
